@@ -18,6 +18,8 @@
   
 # Setup and Run
    - Download and unzip the source repository for this guide, or clone it using Git: git clone https://github.com/Ganesamoorthy83/java.git
+   
+   Note: To setup Sort Application in STS environment please refer the Sort Application Setup Guide document. Or else follow the below steps.
    - Open Spring Tool Suite.
    - Go to File -> Import
    - Select Existing Maven Projects into Workspace and click on Next button.
@@ -32,8 +34,8 @@
    - Displays Sort Application page.
    - Enter un sorted numbers ce application page opened.
    - Click on Sort Numbers button.
-   - Sorted numbers will displayed in ascending order
-   
+   - Displays Sorted numbers in ascending order, duration, changes of positions.
+         
 # Run through SortNumbers-0.0.1-SNAPSHOT.jar
    - Download SortNumbers-0.0.1-SNAPSHOT.jar using git url https://github.com/Ganesamoorthy83/java/blob/master/Sort/target/SortNumbers-0.0.1-SNAPSHOT.jar
    - Navigate to download directory
