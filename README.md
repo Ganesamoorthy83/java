@@ -8,12 +8,12 @@
    - The previous results must also remain if the application is restarted.
   
 # Technology Used
-  Spring Tool Suite 3.8.3
-  Spring Boot 1.5.3
-  Bootstrap
-  AngularJS
-  Java 1.8
-  Apache Commons Lang3 API
+  Spring Tool Suite 3.8.3,
+  Spring Boot 1.5.3,
+  Bootstrap,
+  AngularJS,
+  Java 1.8,
+  Apache Commons Lang3 API,
   Log4j
   
 # Setup and Run
