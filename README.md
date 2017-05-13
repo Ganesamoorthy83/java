@@ -18,8 +18,7 @@
   
 # Setup and Run
    - Download and unzip the source repository for this guide, or clone it using Git: git clone https://github.com/Ganesamoorthy83/java.git
-   
-   Note: To setup Sort Application in STS environment please refer the Sort Application Setup Guide document. Or else follow the below steps.
+   - To setup Sort Application in STS environment please download & refer the document from git "java/Sort Application Setup Guide.docx" . Otherwise follow the below steps.
    - Open Spring Tool Suite.
    - Go to File -> Import
    - Select Existing Maven Projects into Workspace and click on Next button.
