@@ -36,8 +36,8 @@
    - Displays Sorted numbers in ascending order, duration, changes of positions.
    
    - Follow below steps to test Negative Scenario.
-   	- Enter invalid numbers. 
-      - Displays error message as “The given numbers are invalid.”
+   	 - Enter invalid numbers. 
+       - Displays error message as “The given numbers are invalid.”
 
 # Run through SortNumbers-0.0.1-SNAPSHOT.jar
    - Download SortNumbers-0.0.1-SNAPSHOT.jar using git url https://github.com/Ganesamoorthy83/java/blob/master/Sort/target/SortNumbers-0.0.1-SNAPSHOT.jar
