@@ -27,19 +27,19 @@
    - Enter SortApplication.java
    - Click on Open button.
    - Right click on the SortApplication.java source file. Go to Run As -> Java Application
-   - Make sure your embeded server started.
-   - Hit a application url http://localhost:8080/
-   - Enter un sorted numbers once application page opened.
+   - Make sure your embedded server started.
+   - Hit application url http://localhost:8080/
+   - Displays Sort Application page.
+   - Enter un sorted numbers ce application page opened.
    - Click on Sort Numbers button.
-   - Sorted numbers will display as result.
+   - Sorted numbers will displayed in ascending order
    
 # Run through SortNumbers-0.0.1-SNAPSHOT.jar
    - Download SortNumbers-0.0.1-SNAPSHOT.jar using git url https://github.com/Ganesamoorthy83/java/blob/master/Sort/target/SortNumbers-0.0.1-SNAPSHOT.jar
    - Navigate to download directory
    - Double click on the SortNumbers-0.0.1-SNAPSHOT.jar file.
    - Hit url http://localhost:8080/
-   - Enter un sorted numbers once application page opened.
-   - Click on Sort Numbers button.
+   - Enter un sorted numbers and click on Sort Numbers button.
    - Sorted numbers will display as result.
 
 # Sample Inputs
