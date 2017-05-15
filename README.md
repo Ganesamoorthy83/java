@@ -36,7 +36,7 @@
    - Displays Sorted numbers in ascending order, duration, changes of positions.
    
 # Run through SortNumbers-0.0.1-SNAPSHOT.jar
-   - Download SortNumbers-0.0.1-SNAPSHOT.jar using git url https://github.com/Ganesamoorthy83/java/blob/master/Sort/target/SortNumbers-0.0.1-SNAPSHOT.jar
+   - Download SortNumbers-0.0.1-SNAPSHOT.jar using git url https://github.com/Ganesamoorthy83/java/blob/SortingApp/Sort/target/SortNumbers-0.0.1-SNAPSHOT.jar
    - Navigate to download directory
    - Double click on the SortNumbers-0.0.1-SNAPSHOT.jar file.
    - Hit url http://localhost:8080/
